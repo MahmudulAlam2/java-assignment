@@ -55,3 +55,16 @@ return Price;
 }
 var count = hotelCost(70);
 console.log(count);
+
+
+///
+function megaFriend(name){
+var name = ["Abrams", "Frank", "SohadBhuya", "Rahid", "Sami", "Rakibkhan"];
+for(var i = 0; i > name.length; i++){
+    var longest = megaFriend;
+}
+return longest
+}
+var hight = megaFriend(" ")
+console.log(hight)
+//I couldn't do it.
